@@ -1,0 +1,42 @@
+[11-Jan-2019 07:01:48 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/woc/public_html/AmphiProperties/contect_form_store.php on line 4
+[11-Jan-2019 07:01:48 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/woc/public_html/AmphiProperties/contect_form_store.php on line 7
+[11-Jan-2019 07:01:48 Etc/GMT] PHP Notice:  Undefined index: g-recaptcha-response in /home/woc/public_html/AmphiProperties/contect_form_store.php on line 12
+[11-Jan-2019 07:01:48 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/woc/public_html/AmphiProperties/contect_form_store.php on line 38
+[11-Jan-2019 07:01:48 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/woc/public_html/AmphiProperties/contect_form_store.php on line 47
+[11-Jan-2019 07:02:04 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/woc/public_html/AmphiProperties/contect_form_store.php on line 4
+[11-Jan-2019 07:02:04 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/woc/public_html/AmphiProperties/contect_form_store.php on line 7
+[11-Jan-2019 07:02:04 Etc/GMT] PHP Notice:  Undefined index: g-recaptcha-response in /home/woc/public_html/AmphiProperties/contect_form_store.php on line 12
+[11-Jan-2019 07:02:04 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/woc/public_html/AmphiProperties/contect_form_store.php on line 38
+[11-Jan-2019 07:02:04 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/woc/public_html/AmphiProperties/contect_form_store.php on line 47
+[11-Jan-2019 07:03:25 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/woc/public_html/AmphiProperties/contect_form_store.php on line 4
+[11-Jan-2019 07:03:25 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/woc/public_html/AmphiProperties/contect_form_store.php on line 7
+[11-Jan-2019 07:03:25 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/woc/public_html/AmphiProperties/contect_form_store.php on line 20
+[11-Jan-2019 07:03:25 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/woc/public_html/AmphiProperties/contect_form_store.php on line 29
+[11-Jan-2019 07:03:32 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/woc/public_html/AmphiProperties/contect_form_store.php on line 4
+[11-Jan-2019 07:03:32 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/woc/public_html/AmphiProperties/contect_form_store.php on line 7
+[11-Jan-2019 07:03:32 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/woc/public_html/AmphiProperties/contect_form_store.php on line 20
+[11-Jan-2019 07:03:32 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/woc/public_html/AmphiProperties/contect_form_store.php on line 29
+[11-Jan-2019 07:03:34 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/woc/public_html/AmphiProperties/contect_form_store.php on line 4
+[11-Jan-2019 07:03:34 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/woc/public_html/AmphiProperties/contect_form_store.php on line 7
+[11-Jan-2019 07:03:34 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/woc/public_html/AmphiProperties/contect_form_store.php on line 20
+[11-Jan-2019 07:03:34 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/woc/public_html/AmphiProperties/contect_form_store.php on line 29
+[11-Jan-2019 07:04:00 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/woc/public_html/AmphiProperties/contect_form_store.php on line 4
+[11-Jan-2019 07:04:00 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/woc/public_html/AmphiProperties/contect_form_store.php on line 7
+[11-Jan-2019 07:04:00 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/woc/public_html/AmphiProperties/contect_form_store.php on line 20
+[11-Jan-2019 07:04:00 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/woc/public_html/AmphiProperties/contect_form_store.php on line 29
+[11-Jan-2019 07:05:43 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'bh-in-20.webhostbox.net' (using password: NO) in /home/woc/public_html/AmphiProperties/contect_form_store.php on line 4
+[11-Jan-2019 07:05:43 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/woc/public_html/AmphiProperties/contect_form_store.php on line 7
+[11-Jan-2019 07:05:43 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/woc/public_html/AmphiProperties/contect_form_store.php on line 19
+[11-Jan-2019 07:05:43 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/woc/public_html/AmphiProperties/contect_form_store.php on line 28
+[11-Jan-2019 07:07:26 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'bh-in-20.webhostbox.net' (using password: NO) in /home/woc/public_html/AmphiProperties/contect_form_store.php on line 4
+[11-Jan-2019 07:07:26 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/woc/public_html/AmphiProperties/contect_form_store.php on line 7
+[11-Jan-2019 07:07:26 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/woc/public_html/AmphiProperties/contect_form_store.php on line 19
+[11-Jan-2019 07:07:26 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/woc/public_html/AmphiProperties/contect_form_store.php on line 28
+[11-Jan-2019 07:08:03 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'woc_kishan'@'45.113.122.180' to database 'amphi_properties' in /home/woc/public_html/AmphiProperties/contect_form_store.php on line 4
+[11-Jan-2019 07:08:03 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/woc/public_html/AmphiProperties/contect_form_store.php on line 7
+[11-Jan-2019 07:08:03 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/woc/public_html/AmphiProperties/contect_form_store.php on line 19
+[11-Jan-2019 07:08:03 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/woc/public_html/AmphiProperties/contect_form_store.php on line 28
+[11-Jan-2019 07:08:17 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'woc_kishan'@'45.113.122.180' to database 'amphi_properties' in /home/woc/public_html/AmphiProperties/contect_form_store.php on line 4
+[11-Jan-2019 07:08:17 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/woc/public_html/AmphiProperties/contect_form_store.php on line 7
+[11-Jan-2019 07:08:17 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/woc/public_html/AmphiProperties/contect_form_store.php on line 19
+[11-Jan-2019 07:08:17 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/woc/public_html/AmphiProperties/contect_form_store.php on line 28
